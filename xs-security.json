@@ -1,5 +1,5 @@
 {
-  "xsappname": "uxdemo",
+  "xsappname": "uaa_uxdemo",
   "tenant-mode": "dedicated",
   "description": "Security profile of called application",
   "scopes": [
